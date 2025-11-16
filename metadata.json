@@ -1,0 +1,5 @@
+{
+  "name": "Mevzuat Asistanı",
+  "description": "Firearm licensing laws and regulations knowledge base and chatbot. Upload documents, search for specific terms, and chat with an AI assistant that can access up-to-date information from Google Search.",
+  "requestFramePermissions": []
+}
